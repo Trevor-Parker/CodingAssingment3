@@ -1,5 +1,5 @@
 body {
-  background-color: #403E3E;
+  background-color: #E7E7E7;
   font-family: "Noto Sans", sans-serif;
   color: #E0C5C5;
 }
@@ -10,16 +10,12 @@ h1, h2, h3 {
 }
 
 li {
-  color: white
-}
-
-figure {
-  border-color: white;
-  border-width: 3px;
+  color: #FF8A8A;
 }
 
 legend, fieldset {
-  color:black;
+  border-color:black;
+  border-style: ridge;
 }
 
 input {
