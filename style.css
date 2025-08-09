@@ -42,30 +42,32 @@ border: red;
   grid-template-columns: 1fr 3fr;
   gap: 20px;
 }
-header,
-footer {
+header {  
+  grid-column: 1 / 3;
+  grid-row: 1;
   border-radius: 5px;
   padding: 10px;
   background-color: rebeccapurple;
   color: whitesmoke;
   text-align: center;
 }
+
+footer {
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rebeccapurple;
+  color: whitesmoke;
+  text-align: center;
+  grid-column: 1 / 3;
+  grid-row: 3
+}
 aside {
   border-right: 1px solid rebeccapurple;
-}
-header {
-  grid-column: 1 / 3;
-  grid-row: 1;
+  grid-column: 1;
+  grid-row: 2;
 }
 main {
   grid-column: 2;
   grid-row: 2;
 }
-aside {
-  grid-column: 1;
-  grid-row: 2;
-}
-footer {
-  grid-column: 1 / 3;
-  grid-row: 3;
-}
+
