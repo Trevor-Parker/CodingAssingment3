@@ -7,6 +7,7 @@ h1, h2, h3 {
   font-family: "Times New Roman", serif;
   color: #850d0d;
   text-shadow: 5px 5px 5px #410606;
+  text-decoration: underline;
 }
 
 li {
@@ -25,12 +26,3 @@ legend {
 input {
   color:white;
 }
-
-/* ul
-li
-ol
-hr
-span
-
-input
-fieldset */
