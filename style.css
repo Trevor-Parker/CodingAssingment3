@@ -13,10 +13,13 @@ li {
   color: #FF8A8A;
 }
 
-legend, fieldset {
-  text-color: #850d0d;
+fieldset {
   border-style: ridge;
-  border-color: white;
+  border-color: black;
+}
+
+legend {
+  color: white
 }
 
 input {
