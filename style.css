@@ -1,7 +1,6 @@
 body {
   background-color: #303030;
   font-family: "Noto Sans", sans-serif;
-  color: #E0C5C5;
 }
 h1, h2, h3 {
   font-family: "Times New Roman", serif;
@@ -17,10 +16,6 @@ li {
 fieldset {
   border-style: ridge;
   border-color: black;
-}
-
-legend {
-  text-color: white;
 }
 
 input {
