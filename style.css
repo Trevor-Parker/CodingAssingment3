@@ -10,13 +10,13 @@ header {
   grid-row: 1;
   border-radius: 5px;
   padding: 10px;
-  background-color: rebeccapurple;
+  background-color: #850d0d;
   color: whitesmoke;
   text-align: center;
 }
 
 aside {
-  border-right: 1px darkred;
+  border-right: 1px #850d0d;
   grid-column: 1;
   grid-row: 2;
 }
@@ -29,7 +29,7 @@ main {
 footer {
   border-radius: 5px;
   padding: 10px;
-  background-color: rebeccapurple;
+  background-color: #850d0d;
   color: whitesmoke;
   text-align: center;
   grid-column: 1 / 3;
