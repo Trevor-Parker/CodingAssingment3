@@ -23,6 +23,11 @@ input {
   color: #919191;
 }
 
-styLab1 {
+.difficulty-options label {
+  color: #FF8A8A;
+  font-weight: bold;
+}
+
+.rate {
   color: #FF8A8A;
 }
