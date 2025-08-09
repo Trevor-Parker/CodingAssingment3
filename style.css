@@ -1,28 +1,3 @@
-body {
-  background-color: #303030;
-  font-family: "Noto Sans", sans-serif;
-  color: #FF8A8A;
-}
-h1, h2, h3 {
-  font-family: "Times New Roman", serif;
-  color: #850d0d;
-  text-shadow: 5px 5px 5px #410606;
-  text-decoration: underline;
-}
-
-li {
-  color: #FF8A8A;
-}
-
-fieldset {
-  border-style: ridge;
-  border-color: black;
-}
-
-input {
-  color: #919191;
-}
-
 .difficulty-options label {
   color: #FF8A8A;
   font-weight: bold;
