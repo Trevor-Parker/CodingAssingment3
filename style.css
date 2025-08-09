@@ -9,17 +9,21 @@ h1, h2, h3 {
   text-shadow: 5pc 5px 5px #410606;
 }
 
-p  {
-  color: #0D8585;
-}
-
 li {
-
+  color: white
 }
 
 figure {
   border-color: white;
   border-width: 3px;
+}
+
+fieldset {
+  color:black;
+}
+
+input {
+  color:white;
 }
 
 /* ul
