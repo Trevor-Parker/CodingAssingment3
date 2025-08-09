@@ -14,9 +14,9 @@ li {
 }
 
 legend, fieldset {
-  color: #E0C5C5;
+  color: black;
   border-style: ridge;
-  border-color: black;
+  border-color: white;
 }
 
 input {
