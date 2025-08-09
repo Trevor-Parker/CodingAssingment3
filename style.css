@@ -17,12 +17,16 @@ li {
 
 }
 
+figure {
+  border-color: white;
+  border-width: 3px;
+}
 
 /* ul
 li
 ol
 hr
 span
-figure
+
 input
 fieldset */
