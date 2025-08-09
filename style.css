@@ -16,7 +16,7 @@ header {
 }
 
 aside {
-  border-right: 1px #700808;
+  border-right: 200px #700808;
   grid-column: 1;
   grid-row: 2;
 }
