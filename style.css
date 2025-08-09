@@ -34,7 +34,7 @@ input {
 }
 
 div {
-border: red;
+  border: red;
 }
 .container {
   font-family: sans-serif;
