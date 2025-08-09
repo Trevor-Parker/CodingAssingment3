@@ -29,5 +29,6 @@ input {
 }
 
 .rate {
-  color: #FF8A8A;
+  color: #850d0d;
+  text-shadow: 5px 5px 5px #410606;
 }
