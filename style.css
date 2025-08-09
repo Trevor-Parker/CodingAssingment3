@@ -1,13 +1,16 @@
 body {
-
-
+  background-color: #403E3E;
+  font-family: Nata, sans;
+  color: #E0C5C5;
 }
 h1, h2, h3 {
-
+  font-family: "Times New Roman, serif;
+  color: #850D0D;
+  text-shadow: 5pc 5px 5px #410606;
 }
 
 p  {
-
+  color: #0D8585;
 }
 
 li {
