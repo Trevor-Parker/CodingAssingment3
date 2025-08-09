@@ -10,7 +10,7 @@ header {
   grid-row: 1;
   border-radius: 5px;
   padding: 10px;
-  background-color: darkred;
+  background-color: rebeccapurple;
   color: whitesmoke;
   text-align: center;
 }
@@ -29,7 +29,7 @@ main {
 footer {
   border-radius: 5px;
   padding: 10px;
-  background-color: darkred;
+  background-color: rebeccapurple;
   color: whitesmoke;
   text-align: center;
   grid-column: 1 / 3;
