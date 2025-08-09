@@ -18,7 +18,7 @@ figure {
   border-width: 3px;
 }
 
-fieldset {
+legend, fieldset {
   color:black;
 }
 
